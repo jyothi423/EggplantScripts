@@ -1,0 +1,10 @@
+{
+    adaptiveConstant = <*I7>;
+    commandList = "[{captureRect:[400, 675, 483, 768], elementName:\"image0001\", eventNum:2, folderPath:\"\", hotSpot:[64.783673, 158.896552], imageName:\"image0001\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_New\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0002.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:True, usingTempImageName:True, waitForTime:-1}, {captureRect:[0, 0, 0, 0], elementName:\"UNKNOWN\", eventNum:6, folderPath:\"\", hotSpot:[246.595918, 86.863448], imageName:\"\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_New\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0006.png\", skipStep:False, userModified:False, usingTempImageName:True, waitForTime:3}, {captureRect:[0, 0, 0, 0], elementName:\"UNKNOWN\", eventNum:8, folderPath:\"\", imageName:\"\", itemEvent:\"TurboListItemEvent_TypeText\", itemMode:\"TurboListItemMode_New\", itemType:\"TurboListItemType_TypeText\", screenShotFile:\"Screen0008.png\", skipStep:False, text:@\"\\\"amazon.com\\\",Return\", userModified:False, usingTempImageName:True, waitForTime:-1}, {captureRect:[0, 0, 0, 0], elementName:\"UNKNOWN\", eventNum:29, folderPath:\"\", imageName:\"\", itemEvent:\"TurboListItemEvent_TypeText\", itemMode:\"TurboListItemMode_New\", itemType:\"TurboListItemType_TypeText\", screenShotFile:\"Screen0014.png\", skipStep:False, text:@\"\\\"t\\\"\", userModified:False, usingTempImageName:True, waitForTime:-1}]";
+    dilations = <*I3>;
+    maxSize = <*I300>;
+    minSize = <*I16>;
+    savedWithEpfVersion = <*I2111051752>;
+    sessionType = turboSession;
+    sessionUsesDOMObjects = <*BN>;
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SearchItem_script" package="Script-Demo.suite" timestamp="2022-03-20 22:00:43.846 -0500"
+ tests="1"  failures="0" errors="0" time="18.007000">
+  <properties>
+   <property name="RunDate" value="2022-03-20 22:00:43.846 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="SearchItem.script" assertions="1" status="error"  time="17.981">
+    <error type="Exception" message="No Image Found On Screen: &quot;SearchGlass&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

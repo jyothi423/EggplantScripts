@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="SearchItem">
+ <run>
+  <RunDate>2022-03-20 22:00:43.846 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>18.007000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220320_220043.846/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running OpenAmazon.script",
+				"identifier": "START",
+				"timestamp": "2022-03-16 21:18:51.968 -0500"
+			},
+		{
+				"handlerName": "on_openamazon",
+				"timestamp": "2022-03-16 21:19:24.106 -0500",
+				"scriptName": "OpenAmazon.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Amazon\")\". Text not found.",
+				"image": "(TEXT:\"Amazon\")",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"32.273\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2022-03-16 21:18:51 -0500\", Successes:\"0\", TestCase:\"OpenAmazon.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-03-16 21:19:24.262 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Text Found On Screen: \"(TEXT:\"Amazon\")\". Text not found. -- Execution Time 0:00:32 OpenAmazon.script",
+				"identifier": "FAILURE",
+				"timestamp": "2022-03-16 21:19:24.384 -0500"
+			}
+	],
+	"createdTimestamp": "2022-03-16 21:18:51.984 -0500"
+}

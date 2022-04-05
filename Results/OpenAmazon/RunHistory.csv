@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2022-03-16 21:18:51.954 -0500,"Failure",0:00:32,1,0,1,"20220316_211851.954/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Amazon"")"". Text not found.",0

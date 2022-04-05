@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running ConnectDevice.script",
+				"identifier": "START",
+				"timestamp": "2022-03-15 14:22:26.742 -0500"
+			},
+		{
+				"message": "(Duration:\"0.201\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2022-03-15 14:22:26 -0500\", Successes:\"0\", TestCase:\"ConnectDevice.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-03-15 14:22:26.958 -0500"
+			},
+		{
+				"message": "Connection Failed: Unable to connect to Server: on port:0\\nNo Host Specified -- Execution Time 0:00:00 ConnectDevice.script",
+				"identifier": "FAILURE",
+				"timestamp": "2022-03-15 14:22:26.990 -0500"
+			}
+	],
+	"createdTimestamp": "2022-03-15 14:22:26.757 -0500"
+}

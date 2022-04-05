@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="OpenAmazon">
+ <run>
+  <RunDate>2022-03-16 21:18:51.954 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>32.305000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220316_211851.954/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Text Found On Screen: &quot;(TEXT:&quot;Amazon&quot;)&quot;. Text not found.</ErrorMessage>
+ </run>
+</runHistory>

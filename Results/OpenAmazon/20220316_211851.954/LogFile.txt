@@ -1,0 +1,4 @@
+﻿2022-03-16 21:18:51.968 -0500	START		Running OpenAmazon.script
+2022-03-16 21:19:24.106 -0500	Exception	(TEXT:"Amazon")	No Text Found On Screen: "(TEXT:"Amazon")". Text not found.	2	on_openamazon	OpenAmazon.script
+2022-03-16 21:19:24.262 -0500	EndTestCase		(Duration:"32.273", Errors:"1", Exceptions:"1", StartTime:"2022-03-16 21:18:51 -0500", Successes:"0", TestCase:"OpenAmazon.script", Warnings:"0")
+2022-03-16 21:19:24.384 -0500	FAILURE	Screen_Error.png	Image Not Found: click Error - No Text Found On Screen: "(TEXT:"Amazon")". Text not found. -- Execution Time 0:00:32 OpenAmazon.script

@@ -1,0 +1,3 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+OpenAmazon,Failure,1,1,2022-03-16 21:18:51 -0500,2022-03-16 21:18:51 -0500,0:00:00
+ConnectDevice,Failure,1,1,2022-03-15 14:22:26 -0500,2022-03-15 14:22:26 -0500,0:00:00

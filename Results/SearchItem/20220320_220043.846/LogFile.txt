@@ -1,0 +1,4 @@
+﻿2022-03-20 22:00:43.861 -0500	START		Running SearchItem.script
+2022-03-20 22:01:01.512 -0500	Exception	SearchGlass	No Image Found On Screen: "SearchGlass"	3	on_searchitem	SearchItem.script
+2022-03-20 22:01:01.854 -0500	EndTestCase		(Duration:"17.981", Errors:"1", Exceptions:"1", StartTime:"2022-03-20 22:00:43 -0500", Successes:"0", TestCase:"SearchItem.script", Warnings:"0")
+2022-03-20 22:01:01.873 -0500	ABORTED		Execution Time 0:00:18 SearchItem.script

@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running SearchItem.script",
+				"identifier": "START",
+				"timestamp": "2022-03-20 22:00:43.861 -0500"
+			},
+		{
+				"handlerName": "on_searchitem",
+				"timestamp": "2022-03-20 22:01:01.512 -0500",
+				"scriptName": "SearchItem.script",
+				"message": "No Image Found On Screen: \"SearchGlass\"",
+				"image": "SearchGlass",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"17.981\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2022-03-20 22:00:43 -0500\", Successes:\"0\", TestCase:\"SearchItem.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-03-20 22:01:01.854 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:18 SearchItem.script",
+				"identifier": "ABORTED",
+				"timestamp": "2022-03-20 22:01:01.873 -0500"
+			}
+	],
+	"createdTimestamp": "2022-03-20 22:00:43.871 -0500"
+}
